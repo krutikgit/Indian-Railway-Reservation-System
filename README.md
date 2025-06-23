@@ -21,10 +21,10 @@ This project is based on the application and implementation of concepts and func
 
 ## Snapshots
 
-![Frame 1](https://github.com/NemilShah007/Indian-Railway-Reservation-System/blob/master/f1.png)
-![Frame 2](https://github.com/NemilShah007/Indian-Railway-Reservation-System/blob/master/f2.png)
-![Frame 3](https://github.com/NemilShah007/Indian-Railway-Reservation-System/blob/master/f3.png)
-![Frame 4](https://github.com/NemilShah007/Indian-Railway-Reservation-System/blob/master/f4.png)
+![Frame 1](https://github.com/krutikgit/Rail-Manager/blob/main/assets/f1.png)
+![Frame 2](https://github.com/krutikgit/Rail-Manager/blob/main/assets/f2.png)
+![Frame 3](https://github.com/krutikgit/Rail-Manager/blob/main/assets/f3.png)
+![Frame 4](https://github.com/krutikgit/Rail-Manager/blob/main/assets/f4.png)
 
 ---
 
