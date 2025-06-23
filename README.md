@@ -1,4 +1,4 @@
-# Indian-Railway-Reservation-System
+# Indian Railway Reservation System
 
 ## Description
 
